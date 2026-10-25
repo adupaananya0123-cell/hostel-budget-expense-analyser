@@ -1,0 +1,51 @@
+Hostel Budget and Expense Analyzer
+
+Objective
+
+To create a simple Python program that calculates hostel expenses and helps students manage their monthly budget.
+
+Technologies Used
+
+- Python
+- NumPy
+- Pandas
+
+Dataset Description
+
+The project contains five sample expense categories: food, travel, books, snacks and shopping, with their corresponding amounts.
+
+Implementation
+
+1. Store the monthly budget in a variable.
+2. Store expense categories and amounts in lists.
+3. Create a Pandas DataFrame.
+4. Calculate total and remaining expenses.
+5. Use NumPy to find the highest and average expenses.
+6. Use an if-else statement to check the budget.
+
+Key Features
+
+- Total expense calculation
+- Remaining budget calculation
+- Highest expense identification
+- Average expense calculation
+- Budget status checking
+
+Output
+
+Monthly budget: Rs. 5000
+Total expenses: Rs. 3700
+Remaining money: Rs. 1300
+Highest expense: Rs. 1500
+Average expense: Rs. 740
+
+Final Outcome
+
+The project successfully analyzes sample hostel expenses and displays the remaining monthly budget.
+
+Challenges and Learning
+
+I learned to use Python variables, lists, dictionaries, conditions, NumPy calculations and Pandas DataFrames.
+
+GitHub Repository
+https://github.com/adupaananya0123-cell/hostel-budget-expense-analyser.git
